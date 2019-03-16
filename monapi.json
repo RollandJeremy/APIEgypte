@@ -25,6 +25,45 @@
 			"element": "Lumière (Sauveur)",
 			"animal": "Faucon",
 			"attributs": ["Oeil Oudjat","Tête de faucon"]
+			},
+			{
+			"name": "Seth",
+			"url": "https://stock.wikimini.org/w/images/1/12/Photo_seth.jpg",
+			"affiliation": ["Osiris (frère)", "Nephtys (soeur et femme)","Isis (soeur)","Thot (fils)","Geb et Nout (parents)"],
+			"symbole": "Oryctérope",
+			"symbimage": "https://www.animaux-animal.com/wp-content/uploads/2018/08/Oryct%C3%A9rope-1024x694.jpg",
+			"divinite": "Dieu du Chaos",
+			"signification": "Forces opprimantes et contraignantes",
+			"role": "Il veut régner sur l'Egypte et y apporter la folie. Il est tout et son opposé",
+			"element": "Tonnerre,Foudre",
+			"animal": "Oryctérope",
+			"attributs": []
+			},
+			{
+			"name": "Nephtys",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nephtys_ouadj.svg/langfr-80px-Nephtys_ouadj.svg.png",
+			"affiliation": ["Geb et Nout (parents)","Osiris (frère)","Isis (soeur)","Seth (mari)"],
+			"symbole": "Hiéroglyphe",
+			"symbimage": "https://i2.wp.com/www.ethik-life.com/wp-content/uploads/2018/01/egypt-hi%C3%A9roglyphe.jpg?resize=620%2C428&ssl=1",
+			"divinite": "Déesse protectrice des morts",
+			"signification": "La dame du château",
+			"role": "Elle participe à la résurrection temporaire d'Osiris afin de donner naissance à Horus. Elle protège le vase canope",
+			"element": "Aucun",
+			"animal": "Milan ou faucon",
+			"attributs": ["Hiéroglyphes","Coiffe à deux hiéroglyphes"]
+			},
+			{
+			"name": "Osiris",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detail_aus_dem_Grab_des_Sennudjem.jpg/800px-Detail_aus_dem_Grab_des_Sennudjem.jpg",
+			"affiliation": ["Geb et Nout (parents)","Nephtys (soeur)","Isis (soeur et femme)","Seth (frère)","Horus (fils)"],
+			"symbole": "Homme momifié",
+			"symbimage": "https://cdn-s-www.estrepublicain.fr/images/B86922BE-BC28-4D2F-BE81-E55BA14E1F01/LER_22/la-momie-de-seramon-n-a-jamais-ete-devoilee-1537437133.jpg",
+			"divinite": "Dieu des morts et de la résurrection à la vie éternelle",
+			"signification": "Etre parfait",
+			"role": "Il juge les âmes et apporte la fertilité. Il est l'opposé de Seth et est généreux",
+			"element": "Végétation",
+			"animal": "Aucun",
+			"attributs": ["peau verte","barbe postiche","couronne Atef"]
 			}
 	]
 }
